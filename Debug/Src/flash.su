@@ -1,0 +1,6 @@
+flash.c:7:10:Flash_Get_Nth_Page	16	static
+flash.c:11:10:Flash_Get_Page_Addr	16	static
+flash.c:15:8:Flash_Erase	24	static
+flash.c:29:6:Flash_Save_Bulk_Data	160	static
+flash.c:84:6:Flash_Read_Page_Sensor_Data	40	static
+flash.c:95:10:Flash_Read_Sensor_Data	24	static

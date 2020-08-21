@@ -1,0 +1,9 @@
+main.c:109:6:Peripheral_Init	168	static
+main.c:130:6:HAL_TIM_PeriodElapsedCallback	160	static
+main.c:207:6:SystemClock_Config	168	static
+main.c:288:9:Find_Start_End_Page	136	static
+main.c:251:9:Check_Data	128	static
+main.c:67:5:main	112	static
+main.c:363:9:Check_System	128	static
+main.c:375:6:Measure_Data	160	static
+main.c:415:6:Error_Handler	0	static
