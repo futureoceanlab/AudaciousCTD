@@ -28,3 +28,8 @@ The MCU used in this iteration was a STM32F303.
 The role of the MCU is very simple. Every given period, it will sample
 the conductivity, temperature and pressure data from its sensors. Then, it will
 save them to the flash memory. 
+
+To edit the code, we recommend the use of STM32 Cube IDE. To program
+the MCU, we recommend the use of STM32CubeProgrammer. This software also
+enables the user to directly import the data that have been written to the 
+flash drive. We took this approach in the first iteration.
