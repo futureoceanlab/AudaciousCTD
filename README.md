@@ -33,3 +33,15 @@ To edit the code, we recommend the use of STM32 Cube IDE. To program
 the MCU, we recommend the use of STM32CubeProgrammer. This software also
 enables the user to directly import the data that have been written to the 
 flash drive. We took this approach in the first iteration.
+
+## Circuit
+The latest version of the circuit has been added to this repository. There
+are two separte parts. One part has an MCU and its peripherals, and another
+part has sensor-related components. The MCU component was housed inside, and
+the sensor component was potted in the endcap to expose the sensors to the
+seawater. 
+
+At the point of fabrication, we thought having two separate board layouts (one 
+for inside the housing and another for exposed circuit with sensors) on one 
+board would save cost. However, it only caused confusion on the manufacturing 
+company, and we would highly advise simply making two separte boards. 
